@@ -19,3 +19,8 @@
 font-size: larger;
 font-weight: bold;
 }
+
+.nav-item :hover{
+  text-decoration: underline;
+  color: gray;
+}
