@@ -21,6 +21,13 @@ font-weight: bold;
 }
 
 .nav-item :hover{
-  text-decoration: underline;
-  color: gray;
+  text-decoration: none;
+  color: rgb(23, 194, 123);
+
+}
+.navbar-nav{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
